@@ -6,8 +6,8 @@ This code was created as a final project for a CFD course.  It simulates a stead
 Instructions for running
 ------------------------
 
-
 The code can be run from the command terminal using the following format:
+
 `gross_final(Re, nx, ny, IC, tolerance)`
 
 If you wish to copy and paste a command into the command window, you can use the following recommended values:
